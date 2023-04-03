@@ -1,0 +1,5 @@
+[22-Feb-2023 05:40:09 UTC] PHP Fatal error:  Cannot use App\Http\Middleware\Auth as Auth because the name is already in use in /home/wwwchillwithpill/public_html/medeval/admin/app/Http/Controllers/TeacherController.php on line 13
+[22-Feb-2023 05:40:19 UTC] PHP Fatal error:  Cannot use App\Http\Middleware\Auth as Auth because the name is already in use in /home/wwwchillwithpill/public_html/medeval/admin/app/Http/Controllers/TeacherController.php on line 13
+[22-Feb-2023 05:42:04 UTC] PHP Fatal error:  Cannot use App\Http\Middleware\Auth as Auth because the name is already in use in /home/wwwchillwithpill/public_html/medeval/admin/app/Http/Controllers/TeacherController.php on line 13
+[24-Feb-2023 08:49:25 UTC] PHP Fatal error:  Cannot use App\Http\Middleware\Auth as Auth because the name is already in use in /home/wwwchillwithpill/public_html/medeval/admin/app/Http/Controllers/TeacherController.php on line 13
+[24-Feb-2023 08:49:44 UTC] PHP Fatal error:  Cannot use App\Http\Middleware\Auth as Auth because the name is already in use in /home/wwwchillwithpill/public_html/medeval/admin/app/Http/Controllers/TeacherController.php on line 13
